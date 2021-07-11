@@ -30,25 +30,39 @@ This repository aims to remedy that state of affairs.
 
 ## Computer-assisted translation and roadmap.
 
-I do not speak Russian. Following a suggestion on MathOverflow, I decided to use a combination of DeepL and Google Translate to translate the sections in Russian. My contribution, hopefully with assistance from a community, would be to proofread and appropriately amend the prose of the DeepL and Google Translate output; followed by a  proofreading of the mathematics and considered treatment of the technical semantics.
+I do not speak Russian, nor do I have deep technical proficiency with the mathematics of convex optimisation. On the latter, I do have some mathematical literacy, and hope to use this opportunity to learn more about this technique, and to dig more deeply in the field of convex optimisation.
+
+Following a suggestion on MathOverflow, I decided to use a combination of [DeepL](https://www.deepl.com/translator) and [Google Translate](https://translate.google.com/) to supply a first approximation of an English translation.
+
+My contributions, hopefully with assistance from a community, would be to proofread and appropriately render the translation output by DeepL and Google Translate into clear readable English prose. It is also envisaged that a degree of technical proofreading will need to be undertaken, both in parsing the mathematical definitions, arguments and proofs; and in the selection of appropriate technical vocabulary. Lastly, some choices need to be made on notation and typesetting.
 
 Here is a roadmap:
 
-1. Computer translate the document using DeepL and Google Translate, and port to PDF using Pandoc.
+1. Computer translate the document using DeepL and Google Translate, and port to PDF using Pandoc - **completed**.
 
-2. Check fidelity of mathematical transcription.
+2. Check fidelity of mathematical transcription of original manuscript - **mostly completed**.
 
-3. Render prose from computer translation into good English.
+3. Render prose from computer translation into clear, readable English prose.
 
 4. Update formatting e.g. paragraphing.
 
-5. Technical proof-reading, consisting of parsing the mathematical arguments for correctness and possible typos in the original manuscript; as well as the technical parts of the translation.
+5. Technical proof-reading, consisting of parsing the mathematical arguments for correctness and possible typos in the original manuscript. Appropriate translation of technical terms will need to be checked.
 
-6. Typeset in LaTeX. Currently working in Markdown because I prefer it to LaTeX.
+6. Decisions on updating some of the notation.
 
-7. Author and journal copyright permissions.
+7. Typeset in LaTeX. Currently working in Markdown because I prefer it to LaTeX. 
 
-8. Publish to arXiV.
+8. Author, journal and any other copyright holder permissions - **pending.**
+
+9. Conditional on receipt of copyright holder permissions, publish on arXiv.
+
+## Contributing to this project.
+
+Both prose readability suggestions, or technical contributions if you have proficiency with convex optimisation are not only welcome, but solicited.
+
+If you wish to contribute, please submit an issue.
+
+
 
 
 
