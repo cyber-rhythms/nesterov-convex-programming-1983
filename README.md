@@ -2,7 +2,11 @@
 
 The following repository contains my work-in-progress, computer-assisted English translation of the following paper, originally published in Russian:
 
-![](nesterov.png)
+<p align="center">
+    <a href="http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dan&paperid=46009&option_lang=eng">
+        <img src="nesterov.png">
+    </a>
+</p>
 
 [Nesterov, Y. E. (1983). A method of solving a convex programming problem with convergence rate O(1/k^2). (Russian). *Doklady Akademii Nauk SSSR, 269*(3), 543–547.](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dan&paperid=46009&option_lang=eng)
 
