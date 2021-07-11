@@ -12,7 +12,7 @@ The following repository contains my work-in-progress, computer-assisted English
 
 Some remarks about the rationale for uploading an English translation of this paper. My studies in deep learning covered a well-known technique known as *Nesterov's accelerated gradient method*, which originated in the above paper. Personally, reading or attempting to read the original source of a method helps me anchor the ideas, and so I sought a copy to read. While this paper is freely available and easily accessible online at the above link, it is in Russian.
 
-As noted by a MathOverflow user,[Alexandre Eremenko],(https://mathoverflow.net/users/25510/alexandre-eremenko)in [this thread](https://mathoverflow.net/questions/395374/nesterov-1983-paper-translation-from-russian-to-english), an English translation of this paper exists with the following reference:
+As noted by a MathOverflow user, [Alexandre Eremenko](https://mathoverflow.net/users/25510/alexandre-eremenko),in [this thread](https://mathoverflow.net/questions/395374/nesterov-1983-paper-translation-from-russian-to-english), an English translation of this paper exists with the following reference:
 
 Nesterov, Yu. E. A method of solving a convex programming problem with convergence rate 0(1/k2). (English. Russian original) Zbl 0535.90071 Sov. Math., Dokl. 27, 372-376 (1983); translation from Dokl. Akad. Nauk SSSR 269, 543-547 (1983).
 
