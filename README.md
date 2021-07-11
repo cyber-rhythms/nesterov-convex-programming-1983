@@ -10,7 +10,9 @@ The following repository contains my work-in-progress, computer-assisted English
     </a>
 </p>
 
-Some remarks about the rationale for undertaking to upload an English translation of this paper. My studies in deep learning covered an extremely well-known technique known as *Nesterov's accelerated gradient method*, which originated in the above paper. While this paper is freely available and easily accessible online at the above link, it is in Russian. According to this thread at MathOverflow, an English translation of this paper exists as:
+Some remarks about the rationale for undertaking to upload an English translation of this paper. My studies in deep learning covered an extremely well-known technique known as *Nesterov's accelerated gradient method*, which originated in the above paper. While this paper is freely available and easily accessible online at the above link, it is in Russian.
+
+According to [this thread](https://mathoverflow.net/questions/395374/nesterov-1983-paper-translation-from-russian-to-english) at MathOverflow, specifically [Alexandre Eremenko](https://mathoverflow.net/users/25510/alexandre-eremenko,) an English translation of this paper exists as:
 
 Nesterov, Yu. E. A method of solving a convex programming problem with convergence rate 0(1/k2). (English. Russian original) Zbl 0535.90071 Sov. Math., Dokl. 27, 372-376 (1983); translation from Dokl. Akad. Nauk SSSR 269, 543-547 (1983).
 
@@ -22,11 +24,9 @@ This repository aims to remedy that state of affairs.
 
 ## Directory structure.
 
-1. `nesterov-method-convex-1983.pdf` - original paper in Russian.
+1. `nesterov-method-convex-english-1983.md` - work-in progress English translation in Markdown format.
 
-2. `nesterov-method-convex-english-1983.md` - work-in progress English translation in Markdown format.
-
-3. `nesterov-method-convex-english-1983.pdf` - work-in progress English translation in PDF format.
+2. `nesterov-method-convex-english-1983.pdf` - work-in progress English translation in PDF format.
 
 ## Computer-assisted translation and roadmap.
 
@@ -58,7 +58,7 @@ Here is a roadmap:
 
 ## Contributing to this project.
 
-Both prose readability suggestions, or technical contributions if you have proficiency with convex optimisation are not only welcome, but solicited.
+Both prose readability suggestions, or technical assistance with proofreading the the mathematics are not only welcome, but actively solicited. In particular, technical proficiency with convex optimisation would be *extremely helpful*.
 
 If you wish to contribute, please submit an issue.
 
